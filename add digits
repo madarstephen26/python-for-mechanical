@@ -11,6 +11,7 @@ class Solution:
             return num
 sol=Solution()
 n=int(input("Enter the number:"))
+print(Sol.addDigits(n))
 
         
         
